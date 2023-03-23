@@ -1,6 +1,5 @@
 def wordSmash ( a , b ):
-    print ( a + b )
+    return  a + b 
 
-
-wordSmash ("Cat", "Dog" )
-wordSmash ("Red" , "blue")
+print (wordSmash ("Cat", "Dog" ))
+print (wordSmash ("Red" , "blue"))
